@@ -1,0 +1,6 @@
+name = "api cepet"
+compatibility_date = "2025-01-27"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://steady-snake-58835.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AeXTAAIjcDE4NjYxYTFmNTkzMWU0ZmJkODQ2MzQ5MGI2MjYyNTY4NXAxMA"
